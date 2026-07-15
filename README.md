@@ -20,7 +20,7 @@ This repository contains the laboratory experiments completed as part of the **D
 
 ## Author
 
-**Karthik Mekala**
+**Karthikeya pasham**
 
 * B.E. Artificial Intelligence & Machine Learning
 * Chaitanya Bharathi Institute of Technology (CBIT)
